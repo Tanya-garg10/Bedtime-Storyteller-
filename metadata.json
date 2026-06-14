@@ -1,0 +1,6 @@
+{
+  "name": "Bedtime Storyteller",
+  "description": "A comforting personalized bedtime story generator that weaves magical, age-appropriate tales based on a child's name, favorite characters, and gentle moral lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
